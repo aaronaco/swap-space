@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkswap_space=globalThis.webpackChunkswap_space||[]).push([[6590],{3999(a){a.exports=JSON.parse('{"metadata":{"permalink":"/swap-space/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

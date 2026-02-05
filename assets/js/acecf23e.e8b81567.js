@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkswap_space=globalThis.webpackChunkswap_space||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/swap-space/blog","blogTitle":"Blog","authorsListPath":"/swap-space/blog/authors"}')}}]);
